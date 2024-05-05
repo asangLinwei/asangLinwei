@@ -49,6 +49,7 @@ Aparté faite, retournons à notre formation d’ingénieur. Maintenant qu’aya
 
 Je sais très bien que j’ai du pain du la planche et que si je peux commencer dès maintenant  dans une entreprise qui se sente prête à recevoir un jeune alternant dévoué, passionné et motivé, des qualités que tout le monde a qui ne sont pas justifiés et argumentés comme j’ai pu le faire, alors commençons !
 
+> Cette présentation a principalement pour objectif de vous raconter mon histoire, ce qui m'a poussé à toujours aller de l'avant et tout ce qui en découl, tandis que lors de l'entretien que vous m'aurez acordé nous discuterons plus autours de apprentissage bien évidemment mais également de mon profil en temps qu'apprenti, ma façon de travailer, si je correspond bien aux exigeances du poste, mes compétences dans les domaines dans les quelles je souhaite me professionnaliser au travers de vos offres d'apprentissage. Entre autre une approche totalement différente de celle que je viens de vous présenter.
 
 <!---
 asangLinwei/asangLinwei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
